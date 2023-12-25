@@ -26,6 +26,7 @@ In command prompt, initiate python followed by program name and text file name t
 
 
 ## PROGRAM:
+```
 python program for getting the word count from the contents of a file using command line arguments.
 Develpoed By: naresh.r
 RegisterNumber: 23005559
@@ -34,10 +35,10 @@ fp=open(sys.argv[1])
 data=fp.read()
 words=data.split()
 print("no of words",len(words))
-
+```
 ### OUTPUT:
+![Screenshot 2023-12-25 113909](https://github.com/feryjfgkuyfgewjfgew/command-line-arguments-to-count-word/assets/150319377/3ff9df3d-e3de-420f-b1f0-e6a1484f2b42)
 
-![Alt text](<Screenshot 2023-12-25 113909.png>)
 
 
 ## RESULT:
